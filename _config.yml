@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: L. J. Bhagia (Khamosh) # the website title (if blank, full name will be used instead)
 first_name: L.
 middle_name: J.
-last_name: Bhagia
+last_name: Bhagia 
 email: ljbhagia@gmail.com
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -102,7 +102,7 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: @dr.bhagiakhamosh-ghazal3358 # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 # -----------------------------------------------------------------------------
