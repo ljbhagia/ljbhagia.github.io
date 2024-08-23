@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: L. J. Bhagia (Khamosh) # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: L.
 middle_name: J.
 last_name: Bhagia 
@@ -102,7 +102,7 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: # your X handle
-youtube_id: #dr.bhagiakhamosh-ghazal3358 # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: dr.bhagiakhamosh-ghazal3358 # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 # -----------------------------------------------------------------------------
