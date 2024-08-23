@@ -637,7 +637,7 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume_english
     json: assets/json/resume_english.json # it can also be an url
-  - data: resume_pt-br
+  - data: resume_hindi
     json: assets/json/resume_hindi.json # it can also be an url
 jsonresume:
   - basics
