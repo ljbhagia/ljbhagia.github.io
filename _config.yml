@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: L. J. Bhagia "Khamosh" # the website title (if blank, full name will be used instead)
+title: Dr. L. J. Bhagia "Khamosh" # the website title (if blank, full name will be used instead)
 first_name: L.
 middle_name: J.
 last_name: Bhagia
@@ -43,8 +43,8 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 search_enabled: false
-socials_in_search: true
-bib_search: true
+socials_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 1000px
